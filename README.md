@@ -46,7 +46,7 @@ The best way to play locally is to simply download it on the workshop using the 
 You can also clone this repository into `steamapps/common/GarrysMod/garrysmod/gamemodes/rust` if you want the most up to date version.
 To update, simply run `git pull` in the gamemode's root directory.
   
-It is recommended that you download a map that supports the gRust gamemode for a playable expereince, here is the most popular:
+It is recommended that you download a map that supports the gRust gamemode for a playable experience, here is the most popular:
 > **rust_highland**  
 > https://steamcommunity.com/sharedfiles/filedetails/?id=3636630095
 
@@ -57,7 +57,7 @@ the bottom right and invite your friends.
 
 # Reporting Issues
 
-If you encounter any issues or bugs in the gamemode, feel free to [Create an Issue](issues). Please check if the issue
+If you encounter any issues or bugs in the gamemode, feel free to [Create an Issue](../../issues). Please check if the issue
 has already been reported before creating your own.
 
 > [!IMPORTANT]
