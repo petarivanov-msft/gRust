@@ -4,6 +4,8 @@
 !entities/**
 !gamemode/
 !gamemode/**
+!materials/
+!materials/**
 !rust.txt
 !grust.fgd
 !.gitignore
